@@ -1,0 +1,467 @@
+fileFormatVersion: 2
+guid: 7759cc368cb65da4f99a1d1e6f05df33
+timeCreated: 1529400972
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AN-GuanBi-Icon
+    21300002: BiaoQian_GongGao
+    21300004: BiaoQian_HuoDong
+    21300006: BiaoQian_New
+    21300008: BiaoTiIcon-GongGao
+    21300010: BQ-3J-A-Lan
+    21300012: BQ-3J-B-Lan
+    21300014: BQ-3J-C-Lan
+    21300016: TK-2J-HuangA
+    21300018: TK-2J-Lan
+    21300020: TK-Tou-Lan
+    21300022: TK-Tou1-Lan
+    21300024: TK-1J-Lan
+    21300026: AN-3J-F-Lan
+    21300028: AN-1J-F-Huang
+    21300030: TG_LOADING_JinDu_Tiao
+    21300032: TG_LOADING_TeXiao
+    21300034: TG_LOADING_JinDu_DiTu
+    21300036: DiKuang-3A
+    21300038: GongGao-A
+    21300040: GongGao-GongGaoA
+    21300042: GongGao-HuoDongA
+    21300044: KuangTi-1-IconDiA
+    21300046: KuangTi-GuanBiA
+    21300048: TanKuang-1-Di1-HuangA
+    21300050: TanKuang-1-Di2-HuangA
+    21300052: TanKuang-1-Tou-HuangA
+    21300054: TouBuMingCheng-3-LanA
+    21300056: JiaoYi-ShangPin-XuanZhong
+    21300058: AnNiu-2-HuangA
+    21300060: YeQian-XuanZhong
+    21300062: YeQian-XuanZhong
+    21300064: AnNiu-2-LanA
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 4
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: 56
+    textureCompression: 0
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: 56
+    textureCompression: 0
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AN-GuanBi-Icon
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 59
+        width: 42
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BiaoTiIcon-GongGao
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 402
+        width: 104
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AN-3J-F-Lan
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 402
+        width: 26
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 0, z: 12, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AN-1J-F-Huang
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 209
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 76, y: 0, z: 127, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: TG_LOADING_JinDu_Tiao
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 80
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 0, z: 5, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: TG_LOADING_TeXiao
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 357
+        width: 71
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: TG_LOADING_JinDu_DiTu
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 59
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 15, z: 15, w: 15}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BiaoQian_GongGao
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 357
+        width: 45
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BiaoQian_HuoDong
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 432
+        width: 45
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BiaoQian_New
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 80
+        width: 50
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DiKuang-3A
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 284
+        width: 49
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 22, y: 22, z: 22, w: 22}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GongGao-A
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 284
+        width: 64
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GongGao-GongGaoA
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 316
+        width: 69
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GongGao-HuoDongA
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 429
+        width: 69
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: JiaoYi-ShangPin-XuanZhong
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 249
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 98, y: 62, z: 142, w: 34}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: YeQian-XuanZhong
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 103
+        width: 249
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 118, y: 33, z: 126, w: 29}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AnNiu-2-HuangA
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 119
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 48, y: 0, z: 47, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AnNiu-2-LanA
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 429
+        width: 119
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 48, y: 0, z: 48, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: TouBuMingCheng-3-LanA
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 102
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 49, y: 0, z: 49, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: KuangTi-1-IconDiA
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 284
+        width: 117
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: KuangTi-GuanBiA
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 284
+        width: 59
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: TanKuang-1-Di1-HuangA
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 207
+        width: 295
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: TanKuang-1-Di2-HuangA
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 134
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 71, y: 57, z: 60, w: 50}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: TanKuang-1-Tou-HuangA
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 289
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 145, y: 0, z: 139, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

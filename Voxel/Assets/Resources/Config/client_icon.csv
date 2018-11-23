@@ -1,0 +1,11 @@
+type_id,id,is_animation,is_voxel,remark,name,path,voxel_path
+int,int,bool,bool_voxel,string,string,string,string
+类型id,文件id,是否为动画文件,是否为voxel文件,备注,名称,Icon图片资源路径,voxel模型资源路径
+1,1,FALSE,FALSE,人类1,ERK_pixelfy_people29,Res/Textures/Peoples/ERK_pixelfy_people29,
+1,2,FALSE,FALSE,动物1,unicornio_01,Res/Textures/Animals/unicornio_01,
+1,3,FALSE,FALSE,动物2,animal14,Res/Textures/Animals/animal14,
+1,4,TRUE,FALSE,动物2,TBS_food_61,Res/Textures/Foods/TBS_food_61,
+2,1,FALSE,TRUE,voxel1,006-740,Res/Models/Texture/006-740,Res/Models/Voxel/006-740.vox
+2,2,FALSE,TRUE,voxel2,006-772,Res/Models/Texture/006-772,Res/Models/Voxel/006-772.vox
+2,3,FALSE,TRUE,voxel3,006-787,Res/Models/Texture/006-787,Res/Models/Voxel/006-787.vox
+2,4,FALSE,TRUE,voxel4,006-825,Res/Models/Texture/006-825,Res/Models/Voxel/006-825.vox

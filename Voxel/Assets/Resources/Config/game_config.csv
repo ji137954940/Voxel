@@ -1,0 +1,54 @@
+id,type,module,name,data,remark
+string,string,string,string,string,string
+主键：配置key,类型,模块,名称,数据,备注
+texture_max_width,int,Texture,Texture 最大宽度尺寸,100,像素
+texture_max_height,int,Texture,Texture 最大高度尺寸,100,像素
+capture_screen_shot_tex_w,int,截屏,截屏图片大下 w,512,像素
+capture_screen_shot_tex_h,int,截屏,截屏图片大下 h,512,像素
+capture_screen_shot_rect_w,int,截屏,截屏原始 rect 大小 w,512,像素
+capture_screen_shot_offset_w,float,截屏,截屏图片位置偏移 w,0,比例
+capture_screen_shot_offset_h,float,截屏,截屏图片位置偏移 h,0.06,比例
+camera_screen_shots_path_android,string,截屏,Android相机截图存放位置,/sdcard/,
+camera_photo_type_id,int,相机拍照,相机拍照类型id,100,
+camera_photo_path,string,相机拍照,相机拍照图片存储位置,camera_photo,
+ffmpeg_fps,int,录屏,录屏目标fps,30,
+ffmpeg_file_format,string,录屏,录屏截图文件名字格式,{0}_Frame.jpg,
+ffmpeg_image_loop_video_time,int,录屏,录屏一张图片循环生成视频时间,2,秒
+ffmpeg_image_dynamic_texture_show_times,int,录屏,录屏合成视频图片动画显示次数,5,次
+grey_color_vector,string,Color,颜色灰化系数,"0.299,0.587,0.114",颜色值
+default_tile_prompt_color,string,Color,默认tile提示颜色,"0.5,0.5,0.5",颜色值
+default_voxel_prompt_color,string,Color,默认voxel提示颜色,"0.31,0.31,0.31",颜色值
+default_voxel_prompt_color1,string,Color,默认voxel提示颜色1,"0.7,0.7,0.7",颜色值
+voxel_pivot,string,Voxel,voxel对象中心点位置,"0.5,0,0.5",坐标
+voxel_scale,float,Voxel,voxel对象缩放参数,1,比例
+voxel_rotation_speed,float,Voxel,voxel对象旋转速度,2,角度
+grid_path_complement_point_dis,float,路径点,grid路径补点距离间隔,1,
+voxel_path_complement_point_max_dis,float,路径点,voxel路径补点最大距离间隔,70,
+voxel_path_complement_point_min_dis,float,路径点,voxel路径补点最小距离间隔,20,
+camera_pinch_ratio_pc_voxel,float,操作,voxel相机缩放比率pc,2,
+camera_swipe_x_pc_voxel,float,操作,voxel相机拖动x比率pc,0.1,
+camera_swipe_y_pc_voxel,float,操作,voxel相机拖动y比率pc,0.1,
+camera_pinch_ratio_pc_grid,float,操作,grid相机缩放比率pc,2,
+camera_swipe_x_pc_grid,float,操作,grid相机拖动x比率pc,0.1,
+camera_swipe_y_pc_grid,float,操作,grid相机拖动y比率pc,0.1,
+camera_pinch_ratio_android_voxel,float,操作,voxel相机缩放比率android,0.03,
+camera_swipe_x_android_voxel,float,操作,voxel相机拖动x比率android,0.02,
+camera_swipe_y_android_voxel,float,操作,voxel相机拖动y比率android,0.02,
+camera_pinch_ratio_android_grid,float,操作,grid相机缩放比率android,0.5,
+camera_swipe_x_android_grid,float,操作,grid相机拖动x比率android,0.05,
+camera_swipe_y_android_grid,float,操作,grid相机拖动y比率android,0.05,
+camera_pinch_ratio_ios_voxel,float,操作,voxel相机缩放比率ios,0.03,
+camera_swipe_x_ios_voxel,float,操作,voxel相机拖动x比率ios,0.02,
+camera_swipe_y_ios_voxel,float,操作,voxel相机拖动y比率ios,0.02,
+camera_pinch_ratio_ios_grid,float,操作,grid相机缩放比率ios,0.5,
+camera_swipe_x_ios_grid,float,操作,grid相机拖动x比率ios,0.05,
+camera_swipe_y_ios_grid,float,操作,grid相机拖动y比率ios,0.05,
+finger_long_tap_time,float,操作,手指长按触发事件时间,1,秒
+camera_auto_reset_pos_speed,float,操作,相机自动重置位置速度,-2,
+camera_save_texture_fps,int,拍照,相机拍照显示帧率,30,
+camera_save_texture_size,int,拍照,相机拍照图片大小,200,像素
+camera_save_texture_max_width,int,拍照,相机拍照最大图片宽度,80,像素
+camera_save_texture_min_width,int,拍照,相机拍照最小图片宽度,20,像素
+camera_save_texture_width_base,int,拍照,相机拍照图片宽度基数,4,
+camera_svae_texture_color_max_num,int,拍照,相机拍照保存图片颜色最大数量,40,个
+camera_svae_texture_color_min_num,int,拍照,相机拍照保存图片颜色最小数量,10,个

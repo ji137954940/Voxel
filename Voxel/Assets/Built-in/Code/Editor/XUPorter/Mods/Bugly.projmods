@@ -1,0 +1,32 @@
+{
+    "group": "Bugly",
+    "libs": [
+    			"libz.dylib", 
+    			"libc++.dylib"
+    		],
+    "frameworks": [
+	 				"SystemConfiguration.framework",
+    				"Security.framework",
+                    "JavaScriptCore.framework",
+					"Accelerate.framework",
+					"ImageIO.framework",
+					"CoreTelephony.Framework",
+					"CoreImage.Framework",
+					"SafariServices.framework"
+    			  ],
+    "headerpaths": [],
+    "files":   [
+    				"Bugly/Bugly.framework",
+                	"Bugly/BuglyBridge/libBuglyBridge.a",
+                	"Bugly/BuglyBridge/BuglyBridge.h",
+					"iOS/Clipper.mm",
+					"iOS/NSLog.mm"
+                ],
+    "folders": [],    
+    "excludes": ["^.*.meta$", "^.*.mdown$", "^.*.pdf$"],
+    "compiler_flags": [],
+    "linker_flags": [
+    					"-ObjC"
+    				]
+
+}
